@@ -1,0 +1,54 @@
+{
+  "pytania": [
+    {
+      "pytanie": "Gdzie znajduje się Bora Bora?",
+      "odpowiedzi": ["Hawaje", "Bali", "Tahiti", "Malediwy"],
+      "poprawna": 2
+    },
+    {
+      "pytanie": "Gdzie leży Wielki Kanion?",
+      "odpowiedzi": ["Stany Zjednoczone", "Kanada", "Australia", "Chiny"],
+      "poprawna": 0
+    },
+    {
+      "pytanie": "W jakim kraju znajduje się Machu Picchu?",
+      "odpowiedzi": ["Peru", "Brazylia", "Kolumbia", "Meksyk"],
+      "poprawna": 0
+    },
+    {
+      "pytanie": "Gdzie można znaleźć Piramidy w Gizie?",
+      "odpowiedzi": ["Egipt", "Sudan", "Maroko", "Grecja"],
+      "poprawna": 0
+    },
+    {
+      "pytanie": "W którym kraju znajduje się Kapadocja?",
+      "odpowiedzi": ["Turcja", "Grecja", "Włochy", "Egipt"],
+      "poprawna": 0
+    },
+    {
+      "pytanie": "Gdzie leży Wielka Rafa Koralowa?",
+      "odpowiedzi": ["Australia", "Filipiny", "Malezja", "Indonezja"],
+      "poprawna": 0
+    },
+    {
+      "pytanie": "W jakim kraju znajduje się Wielki Mur Chiński?",
+      "odpowiedzi": ["Chiny", "Japonia", "Korea Południowa", "Tajlandia"],
+      "poprawna": 0
+    },
+    {
+      "pytanie": "Gdzie leży Czarnobyl?",
+      "odpowiedzi": ["Ukraina", "Rosja", "Białoruś", "Polska"],
+      "poprawna": 0
+    },
+    {
+      "pytanie": "W którym kraju znajduje się Wyspa Wielkanocna?",
+      "odpowiedzi": ["Chile", "Argentyna", "Peru", "Boliwia"],
+      "poprawna": 0
+    },
+    {
+      "pytanie": "Gdzie można znaleźć Wodospady Iguazu?",
+      "odpowiedzi": ["Argentyna i Brazylia", "Kolumbia i Wenezuela", "Ekwador i Peru", "Tanzania i Kenia"],
+      "poprawna": 0
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+#naglowek_zdjecie{
+    margin: 0;
+    filter: invert(1);
+    
+}
+#naglowek{
+    width: 100%;
+}
+img{
+    width: 20vw;
+    height: 20vw;
+}

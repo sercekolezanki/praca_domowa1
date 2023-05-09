@@ -1,0 +1,71 @@
+form{
+    width: 50vw;
+    height: 40vh;
+    display: block;
+    border-radius: 2vw;
+    border: 0.1em solid;
+    border: #4444ff solid 1px;
+    text-align: center;
+    margin: 20vh auto;
+    background-color: azure;
+    z-index: 2;
+    
+}
+#naglowek_quiz{
+    color: black;
+    
+}
+form::before{
+    content: "";
+    z-index: -1;
+    position: absolute;
+    width: 50vw;
+    height: 40vh;
+    display: block;
+    border-radius: 2vw;
+    
+    text-align: center;
+    margin: 20vh auto;
+    background-color:#4444ff;
+    transform:rotate(-3deg)scale(102%);
+    filter: invert(0.2);
+    top: 0;
+}
+form::after {
+    content: "";
+    z-index: -1;
+    position: absolute;
+    width: 50vw;
+    height: 40vh;
+    display: block;
+    border-radius: 2vw;
+    text-align: center;
+    margin: 20vh auto;
+    background-color:#44ff44;
+    transform: rotate(3deg)scale(102%);
+    top:0;
+    filter: invert(0.2) ;
+}
+#odpowiedzi span{
+    width: 30%;
+    margin: 1.6em 10%;
+    float: left;
+    display: block;
+    
+}
+#odpowiedzi span button{
+    border: 0.1em solid #4444ff;
+    background-color: azure;
+    transition: all 0.4s;
+    width: 100%;
+    font-size: 1.2em;
+    border-radius: 1.2em;
+    padding: 0.6em;
+    cursor: pointer;
+}
+#odpowiedzi span button:hover{
+    background-color:#4444ffaa ;
+    color: azure;
+}
+
+
